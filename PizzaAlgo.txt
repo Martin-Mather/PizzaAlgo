@@ -1,1 +1,5 @@
 Pizza Algo 
+
+1. Decide on a pizza place
+2. Decide on toppings and crust
+3. Call pizza place
